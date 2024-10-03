@@ -18,5 +18,4 @@
 - Lagde en veldig enkel klasse som kan la deg velge mellom __Str__ og __repr__
 
 ### etter implementering
-- Kjører med 'python searchResultHolder.py respone.json'
 - Dette "brukergrensesnittet" kunne sefølgelig blitt gjort bedre, men med instruksjonen om å ikke bruke all verdens tid på det, antar jeg vi har nok å prate om så jeg kan vise mine kunnskaper som informatiker.
