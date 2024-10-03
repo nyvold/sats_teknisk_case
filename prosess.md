@@ -17,5 +17,3 @@
 - Lar __repr__ være som den er, kan muligens brukes som debugging verktøy senere. Lagde __str__ som den "endelige" brukervennlige representasjonen. Viser infoen jeg tror er mest nyttig. Etter det var gjort spurte jeg GPT om å legge til grønn, rød/grønn og blå på de forskjellige tingene bare for å skille de litt bedre. 
 - Lagde en veldig enkel klasse som kan la deg velge mellom __Str__ og __repr__
 
-### etter implementering
-- Dette "brukergrensesnittet" kunne sefølgelig blitt gjort bedre, men med instruksjonen om å ikke bruke all verdens tid på det, antar jeg vi har nok å prate om så jeg kan vise mine kunnskaper som informatiker.
